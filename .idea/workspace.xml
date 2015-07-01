@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="314dd8c5-eb54-41b8-bfa8-9c83540b73e0" name="Default" comment="" />
+    <ignored path="synapse.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="synapse" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1065">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1430661608000" expanded="true" signature="0:269" placeholder="/*...*/" />
+                <marker date="1430661608000" expanded="true" signature="336:1381" placeholder="{&quot;cache&quot;: true...}" />
+                <marker date="1430661608000" expanded="true" signature="349:405" placeholder="{&quot;filename&quot;: 'App.js'...}" />
+                <marker date="1430661608000" expanded="true" signature="465:539" placeholder="[...]" />
+                <marker date="1430661608000" expanded="true" signature="551:592" placeholder="{&quot;colors&quot;: true...}" />
+                <marker date="1430661608000" expanded="true" signature="606:796" placeholder="{...}" />
+                <marker date="1430661608000" expanded="true" signature="648:792" placeholder="{...}" />
+                <marker date="1430661608000" expanded="true" signature="808:1280" placeholder="{...}" />
+                <marker date="1430661608000" expanded="true" signature="826:911" placeholder="[...]" />
+                <marker date="1430661608000" expanded="true" signature="827:910" placeholder="{&quot;test&quot;: /\.js$/...}" />
+                <marker date="1430661608000" expanded="true" signature="926:1276" placeholder="[...]" />
+                <marker date="1430661608000" expanded="true" signature="927:1025" placeholder="{&quot;test&quot;: /\.js$/...}" />
+                <marker date="1430661608000" expanded="true" signature="1027:1129" placeholder="{&quot;test&quot;: /\.scss/...}" />
+                <marker date="1430661608000" expanded="true" signature="1131:1200" placeholder="{&quot;test&quot;: /\.css$/...}" />
+                <marker date="1430661608000" expanded="true" signature="1202:1275" placeholder="{&quot;test&quot;: /\.(png|jpg)$/...}" />
+                <marker date="1430661608000" expanded="true" signature="1294:1378" placeholder="[...]" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gruntfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2490">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1434058500000" expanded="true" signature="57:115" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="269:3336" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="474:2769" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="510:594" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="558:588" placeholder="{&quot;cache&quot;: false...}" />
+                <marker date="1434058500000" expanded="true" signature="623:851" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="640:796" placeholder="{&quot;hot&quot;: true...}" />
+                <marker date="1434058500000" expanded="true" signature="812:845" placeholder="{&quot;keepAlive&quot;: true...}" />
+                <marker date="1434058500000" expanded="true" signature="867:1140" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="884:912" placeholder="{&quot;port&quot;: 8000...}" />
+                <marker date="1434058500000" expanded="true" signature="927:1134" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="946:1126" placeholder="{&quot;keepalive&quot;: true...}" />
+                <marker date="1434058500000" expanded="true" signature="1016:1116" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="1037:1103" placeholder="[...]" />
+                <marker date="1434058500000" expanded="true" signature="1153:1392" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="1170:1198" placeholder="{&quot;delay&quot;: 500...}" />
+                <marker date="1434058500000" expanded="true" signature="1211:1301" placeholder="{&quot;path&quot;: 'http://localhost:&lt;%= connect.options.port %&gt;/webpack-dev-server/'...}" />
+                <marker date="1434058500000" expanded="true" signature="1315:1386" placeholder="{&quot;path&quot;: 'http://localhost:&lt;%= connect.options.port %&gt;/'...}" />
+                <marker date="1434058500000" expanded="true" signature="1406:1471" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="1420:1465" placeholder="{&quot;configFile&quot;: 'karma.conf.js'...}" />
+                <marker date="1434058500000" expanded="true" signature="1484:1931" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="1498:1925" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="1515:1917" placeholder="[...]" />
+                <marker date="1434058500000" expanded="true" signature="1567:1739" placeholder="{&quot;flatten&quot;: true...}" />
+                <marker date="1434058500000" expanded="true" signature="1751:1907" placeholder="{&quot;flatten&quot;: true...}" />
+                <marker date="1434058500000" expanded="true" signature="1946:2173" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="1962:2167" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="1985:2157" placeholder="{&quot;sourcemap&quot;: true...}" />
+                <marker date="1434058500000" expanded="true" signature="2186:2299" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="2201:2293" placeholder="{&quot;files&quot;: 'src/styles/*.scss'...}" />
+                <marker date="1434058500000" expanded="true" signature="2314:2614" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="2333:2509" placeholder="{&quot;map&quot;: true...}" />
+                <marker date="1434058500000" expanded="true" signature="2378:2499" placeholder="[...]" />
+                <marker date="1434058500000" expanded="true" signature="2525:2608" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="2544:2598" placeholder="[...]" />
+                <marker date="1434058500000" expanded="true" signature="2627:2765" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="2641:2759" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="2658:2751" placeholder="[...]" />
+                <marker date="1434058500000" expanded="true" signature="2659:2750" placeholder="{&quot;dot&quot;: true...}" />
+                <marker date="1434058500000" expanded="true" signature="2697:2740" placeholder="[...]" />
+                <marker date="1434058500000" expanded="true" signature="2821:3005" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="2850:2926" placeholder="{...}" />
+                <marker date="1434058500000" expanded="true" signature="2947:2999" placeholder="[...]" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Navbar.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Navbar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+              <caret line="29" column="117" selection-start-line="29" selection-start-column="117" selection-end-line="29" selection-end-column="117" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_navbar.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/styles/_navbar.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.35" vertical-offset="574" max-vertical-offset="1296">
+              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding>
+                <marker date="1435134288000" expanded="true" signature="928:935" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/Navbar.js" />
+        <option value="$PROJECT_DIR$/src/styles/_navbar.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGruntFileManager">
+    <gruntfiles>
+      <GruntfileState>
+        <gruntfile-path>$PROJECT_DIR$/Gruntfile.js</gruntfile-path>
+      </GruntfileState>
+    </gruntfiles>
+    <initial>false</initial>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1366" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="synapse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="synapse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="synapse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="synapse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="synapse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="synapse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="synapse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="synapse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="synapse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="configurable.group.appearance" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="JavaScriptLanguageLevel" value="JSX" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="synapse" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="synapse" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="synapse" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="synapse" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="synapse" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="synapse" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="synapse" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="synapse" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="synapse" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="314dd8c5-eb54-41b8-bfa8-9c83540b73e0" name="Default" comment="" />
+      <created>1435093476206</created>
+      <option name="number" value="Default" />
+      <updated>1435093476206</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1366" height="741" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1065">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1430661608000" expanded="true" signature="0:269" placeholder="/*...*/" />
+            <marker date="1430661608000" expanded="true" signature="336:1381" placeholder="{&quot;cache&quot;: true...}" />
+            <marker date="1430661608000" expanded="true" signature="349:405" placeholder="{&quot;filename&quot;: 'App.js'...}" />
+            <marker date="1430661608000" expanded="true" signature="465:539" placeholder="[...]" />
+            <marker date="1430661608000" expanded="true" signature="551:592" placeholder="{&quot;colors&quot;: true...}" />
+            <marker date="1430661608000" expanded="true" signature="606:796" placeholder="{...}" />
+            <marker date="1430661608000" expanded="true" signature="648:792" placeholder="{...}" />
+            <marker date="1430661608000" expanded="true" signature="808:1280" placeholder="{...}" />
+            <marker date="1430661608000" expanded="true" signature="826:911" placeholder="[...]" />
+            <marker date="1430661608000" expanded="true" signature="827:910" placeholder="{&quot;test&quot;: /\.js$/...}" />
+            <marker date="1430661608000" expanded="true" signature="926:1276" placeholder="[...]" />
+            <marker date="1430661608000" expanded="true" signature="927:1025" placeholder="{&quot;test&quot;: /\.js$/...}" />
+            <marker date="1430661608000" expanded="true" signature="1027:1129" placeholder="{&quot;test&quot;: /\.scss/...}" />
+            <marker date="1430661608000" expanded="true" signature="1131:1200" placeholder="{&quot;test&quot;: /\.css$/...}" />
+            <marker date="1430661608000" expanded="true" signature="1202:1275" placeholder="{&quot;test&quot;: /\.(png|jpg)$/...}" />
+            <marker date="1430661608000" expanded="true" signature="1294:1378" placeholder="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2490">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1434058500000" expanded="true" signature="57:115" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="269:3336" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="474:2769" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="510:594" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="558:588" placeholder="{&quot;cache&quot;: false...}" />
+            <marker date="1434058500000" expanded="true" signature="623:851" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="640:796" placeholder="{&quot;hot&quot;: true...}" />
+            <marker date="1434058500000" expanded="true" signature="812:845" placeholder="{&quot;keepAlive&quot;: true...}" />
+            <marker date="1434058500000" expanded="true" signature="867:1140" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="884:912" placeholder="{&quot;port&quot;: 8000...}" />
+            <marker date="1434058500000" expanded="true" signature="927:1134" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="946:1126" placeholder="{&quot;keepalive&quot;: true...}" />
+            <marker date="1434058500000" expanded="true" signature="1016:1116" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="1037:1103" placeholder="[...]" />
+            <marker date="1434058500000" expanded="true" signature="1153:1392" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="1170:1198" placeholder="{&quot;delay&quot;: 500...}" />
+            <marker date="1434058500000" expanded="true" signature="1211:1301" placeholder="{&quot;path&quot;: 'http://localhost:&lt;%= connect.options.port %&gt;/webpack-dev-server/'...}" />
+            <marker date="1434058500000" expanded="true" signature="1315:1386" placeholder="{&quot;path&quot;: 'http://localhost:&lt;%= connect.options.port %&gt;/'...}" />
+            <marker date="1434058500000" expanded="true" signature="1406:1471" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="1420:1465" placeholder="{&quot;configFile&quot;: 'karma.conf.js'...}" />
+            <marker date="1434058500000" expanded="true" signature="1484:1931" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="1498:1925" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="1515:1917" placeholder="[...]" />
+            <marker date="1434058500000" expanded="true" signature="1567:1739" placeholder="{&quot;flatten&quot;: true...}" />
+            <marker date="1434058500000" expanded="true" signature="1751:1907" placeholder="{&quot;flatten&quot;: true...}" />
+            <marker date="1434058500000" expanded="true" signature="1946:2173" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="1962:2167" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="1985:2157" placeholder="{&quot;sourcemap&quot;: true...}" />
+            <marker date="1434058500000" expanded="true" signature="2186:2299" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="2201:2293" placeholder="{&quot;files&quot;: 'src/styles/*.scss'...}" />
+            <marker date="1434058500000" expanded="true" signature="2314:2614" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="2333:2509" placeholder="{&quot;map&quot;: true...}" />
+            <marker date="1434058500000" expanded="true" signature="2378:2499" placeholder="[...]" />
+            <marker date="1434058500000" expanded="true" signature="2525:2608" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="2544:2598" placeholder="[...]" />
+            <marker date="1434058500000" expanded="true" signature="2627:2765" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="2641:2759" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="2658:2751" placeholder="[...]" />
+            <marker date="1434058500000" expanded="true" signature="2659:2750" placeholder="{&quot;dot&quot;: true...}" />
+            <marker date="1434058500000" expanded="true" signature="2697:2740" placeholder="[...]" />
+            <marker date="1434058500000" expanded="true" signature="2821:3005" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="2850:2926" placeholder="{...}" />
+            <marker date="1434058500000" expanded="true" signature="2947:2999" placeholder="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <caret line="29" column="117" selection-start-line="29" selection-start-column="117" selection-end-line="29" selection-end-column="117" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/_navbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35" vertical-offset="574" max-vertical-offset="1296">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <marker date="1435134288000" expanded="true" signature="928:935" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

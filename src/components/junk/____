@@ -1,0 +1,28 @@
+'use strict';
+
+var React = require('react/addons');
+
+
+require('styles/RichComponentExample.scss');
+
+var RichComponentExample = React.createClass({
+  mixins: [],
+  getInitialState: function() { return({}) },
+  getDefaultProps: function() {},
+  componentWillMount: function() {},
+  componentDidMount: function() {},
+  shouldComponentUpdate: function() {},
+  componentDidUpdate: function() {},
+  componentWillUnmount: function() {},
+
+  render: function () {
+    return (
+        <div>
+          <p>Content for RichComponentExample</p>
+        </div>
+      );
+  }
+});
+
+module.exports = RichComponentExample; 
+

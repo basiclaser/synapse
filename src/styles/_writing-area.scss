@@ -1,0 +1,29 @@
+.writing-area {
+  resize: none;
+  width: calc(100vw - 20px);
+  height: calc(100vh - (60px));
+  background: $body-color;
+  border: 0;
+  font-size: $font-size;
+  font-family: helvetica;
+  font-weight: 300;
+  min-width: 240px;
+  display: block;
+  line-height: 20px;
+  padding: $body-padding;
+  overflow-x: hidden;
+  color: $text-color;
+  &:focus {
+    outline: none;
+  }
+
+  li a{
+    transition: color 0.2s ease;
+    &:hover{
+        //color:#928452;
+        color: $link-color-hover;
+        //color:cadetblue;
+      }
+    cursor: default;
+  }
+} 

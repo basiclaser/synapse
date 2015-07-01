@@ -1,0 +1,25 @@
+.core-pages {
+  padding: $body-padding;
+  background: $body-color;
+  height: $body-height;
+  &-list {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    li {
+      margin-bottom: 10px;
+      padding: 0;
+    }
+    &-item {  
+      transition: color 0.2s ease;
+      text-decoration: none;
+      color: $text-color;
+      &:hover {
+        //color:#928452;
+        color: $link-color-hover;
+        //color:cadetblue;
+      }
+    }
+    cursor: default;
+  }
+}

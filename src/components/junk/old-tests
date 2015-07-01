@@ -1,0 +1,16 @@
+/*ROUTE PAIR FOR TESTING LINKS*/
+var testb = React.createClass({    
+  render: function () {
+    return <Link to="testa"> go to testa</Link>;
+  }
+});
+var testa = React.createClass({    
+  render: function () {
+    return <Link to="testb"> go to testb</Link>;
+  }
+});
+var image = React.createClass({    
+  render: function () {
+    return <img src={'images/yeoman.png'}/>;
+  }
+});

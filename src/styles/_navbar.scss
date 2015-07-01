@@ -1,0 +1,77 @@
+.navbar{
+  position: fixed;
+  background:linear-gradient(to top left, lightyellow, transparent), linear-gradient(to bottom right, lavender, transparent);
+  background-blend-mode: screen;
+  height: 50px;
+  width: 100%;
+  line-height: 50px;
+  font-size: 1.3em;
+  color: rgb(64, 64, 64);
+  overflow: hidden;
+  outline: 3px solid lightpink;
+  outline: 3px solid teal;
+  outline: 3px solid cornflowerblue;
+
+  &-title-area {
+    margin: 0;
+    padding: 0 20px;
+    display: inline;
+    float:left;
+  }
+  &-title-synapse {
+    transition: all 0.2s ease-in-out;
+    font-family: italic;
+    text-decoration: none;
+    font-size: 1.2em;
+    font-weight: 100;
+    cursor: pointer;
+    color: $link-color;
+    &:hover{
+      transition: all 0.2s ease-in-out;
+      color: $link-color-hover;
+    }
+  }
+
+  &-note-controls {
+    height: 50px;
+    margin: 0 15px;
+    display: inline-block;
+    .navbar-note-controls-rename {
+      font-size: 18px;
+      background: transparent;
+      outline: 0;
+      border: 0;
+      color: $text-color;
+      &:focus {
+        outline: 0;
+        border: 0;
+      }
+    }
+    .navbar-note-controls-delete {
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.2s ease-in-out;
+      font-weight: 100;
+      color: #999;
+      &:hover {
+        color: tomato;
+      }
+    }
+  }
+
+  &-links-area {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    list-style: none;
+    padding: 0 15px 0 0;
+    margin-top: 0;
+  }
+  &-links-area-link {
+    font-size: 13px;
+    float: right;
+    padding: 4px 5px 0 0;
+    cursor: pointer;
+  }
+}

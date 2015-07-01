@@ -1,0 +1,21 @@
+@import "variables";
+@import "navbar";
+@import "writing-area";
+@import "core-pages";
+@import "graph-view";
+@import "../../node_modules/sweetalert/dev/sweetalert";
+
+/* any resets, mixins, really fundamental stuff*/
+
+body {
+  font-family: helvetica;
+  padding: 0;
+  margin: 0;
+  font-weight: 100;
+  height: calc(100vh - (10px));
+}
+html, .synapse-container {
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
