@@ -19,8 +19,8 @@ var App = React.createClass({
   render () {
     return (
       <div className="synapse-container">
-      <Navbar route={this.getPath()} coreArray={coreArray} />
-      <RouteHandler  />
+      <Navbar route={this.getPath()} />
+      <RouteHandler />
       </div>
     );
   }

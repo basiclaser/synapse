@@ -4,28 +4,35 @@ var React = require('react');
 var Router = require('react-router');
 var Link = Router.Link;
 
-
 var Container = React.createClass({
   mixins: [ Router.State ],
-  getInitialState: function(){
+  getInitialState: function(){    
     var route = this.getPath();
     var URL = location;
     var storedNote = (localStorage.getItem(route) || "");
-      return ({
-          note: storedNote,
-      });
+    return ({
+        note: storedNote,
+    });
+  },
+  handleLink: function(content) {
+    console.log("hello");
   },
   handleChange: function(event) {
+    console.log("something changed");
     var route = this.getPath();
-    localStorage.setItem(route, event.target.value);
-    this.setState({note: event.target.value});
+    var test = event.target.innerHTML;
+    test = test.replace(/{{/g, "<span class='link' onClick='this.handleLink(this)'>");
+    test = test.replace(/}}/g, "</span>");
+    localStorage.setItem(route, test);
+    this.setState({note: test});
   },
   componentDidMount: function() {
-    //FOCUS IN TEXTAREA
+    document.querySelector(".writing-area").focus();
+    document.querySelector(".writing-area").innerHTML = this.state.note;
   },
   render: function () {
     return (
-      <textarea className="writing-area" defaultValue={this.state.note} onChange={this.handleChange}></textarea>
+      <div contentEditable className="writing-area" onChange={this.handleChange}></div>
     );
   }
 });

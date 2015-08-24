@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+</head>
+<body>
+  <p id="par"> @content@ not relevent, "releve@link@nt", don't target this, "target this"</p>
+  <div id="output"></div>
+<script> 
+	var par = document.getElementById('par').innerHTML;
+	var matches = (par.match(/([@'])(?:(?=(\\?))\2[\s\S])*?\1/g));
+	console.log(matches);
+</script> 
+
+</body>
+</html>
